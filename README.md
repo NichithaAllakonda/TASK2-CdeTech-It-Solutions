@@ -49,3 +49,9 @@ informative interfaces.
 
 **3.JavaScript:** Adds interactivity, handles user input, fetches data, and updates the user interface dynamically.
 
+**SCREENSHORTS:**
+![Recipe ScreenShort1](https://github.com/user-attachments/assets/1f50026a-11ba-4783-b2f0-84361a863ee4)
+![Recipe ScreenShort2](https://github.com/user-attachments/assets/6f539886-7a07-448b-813d-21e5ea8cb032)
+![Recipe screenshort3](https://github.com/user-attachments/assets/b0908b89-7e0e-4d59-a683-23c178f46a34)
+![Recipe ScreenShort4](https://github.com/user-attachments/assets/77a44d02-f5ee-4234-b831-b57e801d7cca)
+
